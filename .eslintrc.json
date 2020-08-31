@@ -1,0 +1,19 @@
+{
+    "env": {
+        "browser": true,
+        "es2020": true
+    },
+    "extends": [
+        "google"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+        "no-console":"off",
+        "no-var":"off",
+        "linebreak-style":"off",
+        "max-len":"off"
+    }
+}
